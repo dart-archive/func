@@ -1,0 +1,9 @@
+name: func
+version: 0.1.0
+description: >
+  Typedefs defining commonly used function types to make it simpler to
+  define members that return specific function types.
+author: Dart Dev Compiler team <dev-compiler@dartlang.org>
+homepage: https://github.com/dart-lang/func
+environment:
+  sdk: ">=1.9.0 <2.0.0"
