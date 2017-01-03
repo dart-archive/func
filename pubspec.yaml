@@ -1,5 +1,5 @@
 name: func
-version: 0.1.0
+version: 0.1.1
 description: >
   Typedefs defining commonly used function types to make it simpler to
   define members that return specific function types.

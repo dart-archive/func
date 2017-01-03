@@ -50,4 +50,4 @@ typedef void VoidFunc6Opt1<A, B, C, D, E, F>(A a, B b, C c, D d, E e, [F f]);
 typedef void VoidFunc7Opt1<A, B, C, D, E, F, G>(A a, B b, C c, D d, E e, F f, [G g]);
 typedef void VoidFunc8Opt1<A, B, C, D, E, F, G, H>(A a, B b, C c, D d, E e, F f, G g, [H h]);
 typedef void VoidFunc9Opt1<A, B, C, D, E, F, G, H, I>(A a, B b, C c, D d, E e, F f, G g, H h, [I i]);
-typedef void VoidFunc10Opt1<A, B, C, D, E, F, G, H, I>(A a, B b, C c, D d, E e, F f, G g, H h, I i, [J j]);
+typedef void VoidFunc10Opt1<A, B, C, D, E, F, G, H, I, J>(A a, B b, C c, D d, E e, F f, G g, H h, I i, [J j]);
